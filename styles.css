@@ -46,7 +46,7 @@ width: 100px;
 
 #canvas-container {
         flex: 1;
-        padding: 0px;
+        padding: 10px;
         display: flex;
         justify-content: center; /* Aligns canvas-container to the right */
     }
